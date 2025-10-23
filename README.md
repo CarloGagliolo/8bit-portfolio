@@ -1,2 +1,3 @@
 # 8bit-portfolio
-A portfolio with 8 bit style for my future business
+A portfolio with 8 bit style for my future business.
+A freelance carrer starts here!
