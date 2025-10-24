@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Press_Start_2P } from "next/font/google";
 import "./globals.css";
 import "nes.css/css/nes.min.css";
+import { Footer, Header } from "@/components/ui";
+import Subcribe from "@/components/ui/subscribe/subcribe";
 
 const pressStart2P = Press_Start_2P({
   weight: "400",
@@ -20,10 +22,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${pressStart2P.className} antialiased`}
-      >
+      <body className={`${pressStart2P.className} antialiased`} >
+        <Header />
         {children}
+        <Subcribe />
+        <Footer />
       </body>
     </html>
   );
