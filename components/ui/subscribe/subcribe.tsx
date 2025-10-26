@@ -12,7 +12,7 @@ export default function Subcribe() {
         <div className="fixed bottom-0 right-0 w-32 md:w-64">
             {isShowModal && (
                 <div className="w-44">
-                    <p className="nes-balloon from-right nes-pointer">Subscribe!</p>
+                    <p className="nes-balloon from-right nes-pointer">Follow me!</p>
                 </div>
             )}
             <Link href={"#"}>
