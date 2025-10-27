@@ -4,7 +4,7 @@
 ## Overview
 Welcome to the 8-bit Pixely Portfolio! This unique developer portfolio is crafted in Next.js and styled using the nes.css library to bring a nostalgic, old-school NES look. Perfect for developers who want to showcase their projects with a retro gaming aesthetic, this template combines modern web development with a delightful 8-bit design.
 
-## 8-bit Pixely Portfolio Orcish Template
+## 8-bit Pixely Portfolio
 
 First, run the development server:
 
